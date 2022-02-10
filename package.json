@@ -59,7 +59,7 @@
     "mongoose": "^5.3.13",
     "morgan": "^1.9.1",
     "node-cache": "^4.1.1",
-    "node-sass": "^4.9.2",
+    "node-sass": "^7.0.0",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
     "pg": "^7.4.3",
